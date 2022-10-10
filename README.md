@@ -1,5 +1,5 @@
 # FileSharingApp
-Co-developed a multi-threaded file-sharing app 
+Co-developed a multi-threaded file-sharing app using java
 
 # Utilized
 Java
